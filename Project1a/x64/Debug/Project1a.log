@@ -1,0 +1,16 @@
+﻿  TestObject.cpp
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(18,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(19,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(72,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(72,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(84,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(84,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(90,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(90,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(96,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(96,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(102,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(102,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(127,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matthew Grim\source\repos\Project1a\Project1a\TestObject.cpp(127,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1a.vcxproj -> C:\Users\Matthew Grim\source\repos\Project1a\x64\Debug\Project1a.exe
